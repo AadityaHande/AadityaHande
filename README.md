@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! I'm Aaditya Hande 👋
 
-<!--
-**AadityaHande/AadityaHande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Computer Science Engineering** student in Pune, India 🇮🇳. 
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
+- I’m currently learning **C**, **Linux**, **AI/ML**, and **Web Development**.
+- I love solving problems through code and am passionate about exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies I'm Working With:
+- **Languages**: C, JavaScript, Python, C++
+- **Web Development**: HTML, CSS, JavaScript
+- **AI/ML**: Exploring machine learning basics
+- **Tools**: Git, Linux, VSCode, Jupyter Notebooks
+
+### 📚 My Projects:
+I'm just getting started with my coding journey.
+STAY TUNED..
+
+### 📬 Connect Me:
+- **LinkedIn**: [click here](https://www.linkedin.com/in/aadityahande)
+- **GitHub**: [click here](https://github.com/AadityaHande)
+
+---
+
+🤝 Thanks for visiting my profile! 
+💡 Feel free to reach out if you’d like to collaborate or share ideas. Let's build something awesome together! 
