@@ -1,93 +1,126 @@
-# Hi there! I'm Aaditya Hande 👋
+# Hi there! I'm Aaditya Hande 👋  
 
-Welcome to my GitHub profile! I'm a **Computer Science Engineering** student based in Pune, India 🇮🇳.
+Welcome to my GitHub profile!  
+I'm a **B.Tech Computer Engineering student (2028 batch) at MITAOE, Pune** 🇮🇳.  
 
-### 🌐 [Check Out My Portfolio](https://aadityahande.github.io/portfolio/)
+Currently, I’m building my skills in **AI/ML** 🤖 and **Full Stack Development** 🌐 with the goal of becoming an **AI Engineer** with a great position by graduation. 🚀  
 
----
-
-### 👨‍💻 About Me
-
-I’m passionate about building smart, creative, and practical tech solutions.  
-Having completed strong foundations in **C programming**, **Linux**, and **Python for Data Science**, I’m now focused on:
-
-- Applying AI-style logic in real-world projects  
-- Database integration & real-time data handling  
-- UI/UX enhancement and product-based development  
-- Exploring machine learning concepts through hands-on projects
-
-I enjoy transforming ideas into interactive experiences and continuously growing through project-based learning.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AadityaHande&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AadityaHande?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AadityaHande?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
+  <a href="https://aadityahande.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-aadityahande.github.io-blue?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-### 💻 Technologies & Tools I Work With
+## 👨‍💻 About Me  
 
-- **Languages:** JavaScript, Python, C, C++
-- **Web Development:** HTML, CSS, JavaScript
-- **Tools & Platforms:** Git, Firebase, Google Sheets, VSCode, Linux
-- **Currently Exploring:** SQL, Firebase Realtime DB, AI APIs, System Design, ML Concepts
+I’m passionate about building **intelligent systems** and **scalable web apps**.  
+My focus areas right now:  
 
----
+- 🤖 **AI/ML** → projects using datasets, IBM Watsonx, ML concepts  
+- 💻 **Full Stack** → structured real-world apps with real users  
+- 🏆 **Hackathons & Projects** → teamwork + product-based learning  
+- 🎨 **UI/UX** → clean, functional, user-friendly designs  
 
-### 📚 Featured Projects
-
-#### 🔥 AURAfit  
-**Smart Fitness & Health Web Assistant**  
-**Project Goal:**  
-> To develop a smart web-based assistant that generates personalized workout and diet plans using user inputs.
-
-**Key Features:**  
-- AI-style logic from survey-based answers  
-- Real-time generation and plan tracking  
-- Motivational and clean user interface  
-
-**Tech Stack:**  
-`HTML` | `CSS` | `JavaScript` | `Firebase (Auth)` | `Google Sheets` | `LocalStorage`  
-🛠️ *Currently integrating database features*
+⚡ I believe in **project-first learning** → turning ideas into working systems while sharpening **DSA, databases, and system design**.  
 
 ---
 
-#### 🤖 HIREme.AI *(in progress)*  
-**AI-Powered Resume & Portfolio Builder**  
-A smart application to build resumes and portfolios with multi-template support and live editing.
+## 💻 Tech Stack  
 
-**Goals:**  
-- AI-assisted content generation  
-- Multiple responsive layouts  
-- Export-ready, user-customizable templates
-
----
-
-#### 🧪 CHEMLAB  
-**Inventory & Chemical Management System for Labs**  
-Built for college lab management—tracks and monitors chemicals and lab equipment usage.
-
-**Key Modules:**  
-- Chemical inventory tracking  
-- Equipment and devices count(e.g., burners, spatulas, etc.), chemial tracking
-- Secure login and user-specific dashboards  
-- Reports for insights and usage analysis  
-
-**Homepage Sections:**  
-- Chemicals  
-- Instruments/ items
-- Insights  
-
----
-
-### 🚀 Learning & Building
-
-I'm actively developing projects that bring ideas to life while exploring deeper concepts in AI, data handling, and scalable systems.  
-Stay tuned—more updates and open-source contributions coming soon!
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  
+  <!-- Frontend & Backend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" />
+</p>
 
 ---
 
-### 📬 Connect With Me
+## 📚 Featured Projects  
 
-- **LinkedIn:** [linkedin.com/in/aadityahande](https://www.linkedin.com/in/aadityahande)  
-- **GitHub:** [github.com/AadityaHande](https://github.com/AadityaHande)  
+🚧 *Section Under maintenance.. Will be back soon!* 🙂  
+
+---
+
+## 🏆 Certifications  
+
+- 🎓 **Great Learning** → CSS, HTML, Linux, Java, UI/UX, Data Science Foundations  
+- 🐍 **Udemy** → Python for Beginners and Interns  
+- ☁️ **IBM (Credly)** → AI Fundamentals, Cloud Journey, RAG  
+- 🔐 **Cisco NetAcad** → Python Essentials 1 & 2, Cybersecurity  
+
+---
+
+## 🚀 Current Goals  
+
+- 📘 Master **DSA** + core **AI/ML algorithms**  
+- 🤝 Build impactful **AI projects**  
+- 🐙 Strengthen **GitHub profile** with clean, open-source contributions  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AadityaHande&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://streak-stats.demolab.com?user=AadityaHande&theme=radical&hide_border=false" alt="GitHub Streak" height="170" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaHande&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 🏹 Competitive Programming Profiles  
+
+<p align="center">
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_ID">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_ID">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_ID/practice/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aadityahande">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AadityaHande">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 🤝 Thanks for stopping by!  
-💡 Open to collaboration, learning, and building something awesome together.
+💡 Always open to collaborations, hackathons, and building something exciting together.  
