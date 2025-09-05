@@ -96,13 +96,13 @@ My focus areas right now:
 ## 🏹 Competitive Programming Profiles  
 
 <p align="center">
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_ID">
+  <a href="https://www.codechef.com/users/nullcodx">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID">
+  <a href="https://leetcode.com/aadityahande">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_ID/practice/">
+  <a href="https://auth.geeksforgeeks.org/user/nullcodx/practice/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
