@@ -1,22 +1,22 @@
-# Hi there! I'm Aaditya Hande 👋  
+# 👋 Hi, I’m Aaditya Hande  
 
-Welcome to my GitHub profile!  
-I'm a **B.Tech Computer Engineering student (2028 batch) at MITAOE, Pune** 🇮🇳.  
+Computer Engineering student @ **MIT Academy of Engineering, Pune (2028)**  
 
-Currently, I’m building my skills in **AI/ML** 🤖 and **Full Stack Development** 🌐 with the goal of becoming an **AI Engineer** by graduation. 🚀  
+I build **real-world full-stack and AI-powered systems** — from civic-tech platforms to institutional inventory systems and AI assistants.
+
+My work focuses on **problem-first engineering**, scalable backends, and applied AI (RAG, ML, automation).
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AadityaHande&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AadityaHande?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/AadityaHande?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
   <a href="https://aadityahande.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-aadityahande.github.io-blue?style=for-the-badge" />
-  </a>
-  <a href="https://hacktoberfest.com/" title="Badge ID: cmfxaoo5w0006l204aalcjfdp | Awarded: 2025-09-24 UTC">
-    <img src="https://img.shields.io/badge/Hacktoberfest%202025-Contributor-ff69b4?style=for-the-badge&logo=hackthebox" alt="Hacktoberfest 2025 Contributor" />
+    <img src="https://img.shields.io/badge/Portfolio-aadityahande.github.io-blue?style=for-the-badge" />
   </a>
   <a href="https://gssoc.girlscript.tech/">
-    <img src="https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge&logo=girlScript" alt="GSSoC'25 Contributor" />
+    <img src="https://img.shields.io/badge/GSSoC'25-Contributor-orange?style=for-the-badge&logo=girlScript" />
+  </a>
+  <a href="https://hacktoberfest.com/">
+    <img src="https://img.shields.io/badge/Hacktoberfest%202025-Contributor-ff69b4?style=for-the-badge" />
   </a>
 </p>
 
@@ -24,114 +24,104 @@ Currently, I’m building my skills in **AI/ML** 🤖 and **Full Stack Developme
 
 ## 👨‍💻 About Me  
 
-I am passionate about building **intelligent systems** and **scalable web apps**.  
-My current focus areas:
+I focus on building systems that solve **real operational problems**, not just demos.
 
-- 🤖 **AI/ML**: Applied projects, IBM Watsonx, modern ML
-- 💻 **Full Stack**: Robust, real-world applications
-- 🏆 **Hackathons & Team Projects**: Product-driven development
-- 🎨 **UI/UX**: Clean, functional, user-centered design
+So far, I’ve worked on:
+- 🧪 **Institution-used inventory systems**
+- 🏙 **Civic issue reporting & workforce coordination platforms**
+- 🤖 **AI assistants using retrieval-based architectures (RAG)**
 
-I believe in **project-first learning**: turning ambitious ideas into working systems while sharpening DSA, database, and system design skills.
-
----
-
-## 🏅 Achievements & Open Source
-
-- <strong>Hacktoberfest 2025 Contributor</strong> (Badge ID: cmfxaoo5w0006l204aalcjfdp, Awarded: 2025-09-24 UTC)
-- <strong>GSSoC'25 Contributor</strong>
-- Open source: [Notable public projects and contributions](#) (update this with real links)
+I follow a **project-first approach**: design → build → deploy → iterate, while strengthening DSA, databases, and system design fundamentals.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" />
-</p>
+### 🧪 **ChemStock** — Chemistry Inventory Management System  
+A real-world inventory and audit system used in a college chemistry lab.  
+**Tech:** Next.js, Firebase, RBAC  
+👉 [Repository](https://github.com/AadityaHande/ChemStock) | [Live Demo](https://chem-stock.vercel.app)
+
+
+### 🏙 **Parivartan (Swachh)** — Civic Issue Management Platform  
+Citizen → Admin → Department → Worker workflow for civic issue resolution.  
+**Tech:** Full-stack (TypeScript)  
+👉 [Repository](https://github.com/AadityaHande/parivatran-swachh) | [Live Demo](https://parivatran-swachh.vercel.app/)
+
+### 🤖 **Admission Agent** — AI Assistant (RAG)  
+LLM-powered assistant using document retrieval for accurate responses.  
+**Tech:** Python, Vector DB, IBM Watsonx  
+👉 [Repository](https://github.com/AadityaHande/admission-agent)
+
+### 🧠 **Problem Solving**  
+Clean C++ implementations of core DSA concepts with explanations.  
+👉 [Repository](https://github.com/AadityaHande/problem-solving)
 
 ---
 
-## 📚 Featured Projects  
+## 💻 Tech Stack  
 
-🚧 *Section under maintenance. Will be updated soon.*
+**Languages:** Python, JavaScript, TypeScript, C, C++  
+**Frontend:** React, Next.js  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, Firebase, SQL  
+**AI / Cloud:** IBM Cloud, Watsonx  
+**Tools:** Git, Linux  
+
+---
+
+## 🏅 Achievements & Open Source  
+
+- **Hacktoberfest 2025 Contributor**  
+- **GSSoC’25 Contributor**  
+- Active contributor to open-source and team-based engineering projects  
 
 ---
 
 ## 🏆 Certifications  
 
-- **Great Learning**: CSS, HTML, Linux, Java, UI/UX, Data Science Foundations  
-- **Udemy**: Python for Beginners and Interns  
-- **IBM (Credly)**: AI Fundamentals, Cloud Journey, RAG  
-- **Cisco NetAcad**: Python Essentials 1 & 2, Cybersecurity  
+- **IBM (Credly):** AI Fundamentals, Cloud Journey, RAG  
+- **Cisco NetAcad:** Python Essentials 1 & 2  
+- **Others:** Great Learning, Udemy  
 
 ---
 
-## 🚀 Currently Exploring
-
-- Advanced DSA and core AI/ML algorithms
-- Large Language Models and Generative AI
-- Next.js and TypeScript
-- Clean architecture & best practices
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadityaHande&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://streak-stats.demolab.com?user=AadityaHande&theme=radical&hide_border=false" alt="GitHub Streak" height="170" />
-</p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaHande&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AadityaHande&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=AadityaHande&theme=radical" height="160" />
 </p>
 
 ---
 
-## 🏹 Competitive Programming Profiles
+## 🏹 Competitive Programming  
 
 <p align="center">
   <a href="https://www.codechef.com/users/nullcodx">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/aadityahande">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/nullcodx/practice/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect  
 
 <p align="center">
   <a href="mailto:aadityahande@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional%20Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/aadityahande">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AadityaHande">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Hande-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-Thank you for visiting my profile.
-
-Always open to professional collaborations, impactful open-source, and ambitious projects.
+**Open to internships, hackathons, and impactful engineering collaborations.**
