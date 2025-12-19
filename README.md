@@ -2,11 +2,8 @@
 
 Computer Engineering student @ **MIT Academy of Engineering, Pune (2028)**  
 
-I build **real-world full-stack and AI-powered systems** — from civic-tech platforms to institutional inventory systems and AI assistants.
-
+I build **real-world full-stack and AI-powered systems** — from civic-tech platforms to institutional inventory systems and AI assistants.  
 My work focuses on **problem-first engineering**, scalable backends, and applied AI (RAG, ML, automation).
-
----
 
 <p align="center">
   <a href="https://aadityahande.github.io/portfolio/">
@@ -24,89 +21,91 @@ My work focuses on **problem-first engineering**, scalable backends, and applied
 
 ## 👨‍💻 About Me  
 
-I focus on building systems that solve **real operational problems**, not just demos.
+I build **production-oriented full-stack and AI systems** focused on real operational workflows.
 
-So far, I’ve worked on:
-- 🧪 **Institution-used inventory systems**
-- 🏙 **Civic issue reporting & workforce coordination platforms**
-- 🤖 **AI assistants using retrieval-based architectures (RAG)**
+**What I care about:**
+- Problem-first system design  
+- Scalable backend architectures  
+- Applied AI (RAG, automation, ML inference)  
+- Clean engineering over demo-driven projects  
 
-I follow a **project-first approach**: design → build → deploy → iterate, while strengthening DSA, databases, and system design fundamentals.
+**Hands-on experience with:**
+- 🧪 Institution-used inventory systems  
+- 🏙 Civic issue reporting & workforce coordination platforms  
+- 🤖 AI assistants using retrieval-based architectures (RAG)  
+
+I follow a **project-first approach**:  
+*design → build → deploy → iterate*, while strengthening DSA, databases, and system design fundamentals.
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🧪 **ChemStock** — Chemistry Inventory Management System  
-A real-world inventory and audit system used in a college chemistry lab.  
+### 🧪 **ChemStock** — Chemistry Inventory & Audit System  
+A production-grade inventory platform actively used in a college chemistry lab.  
+
+- Replaced manual registers with role-based digital workflows  
+- Supports audits, low-stock alerts, and access control  
+- Designed for real users under institutional constraints  
+
 **Tech:** Next.js, Firebase, RBAC  
 👉 [Repository](https://github.com/AadityaHande/ChemStock) | [Live Demo](https://chem-stock.vercel.app)
 
+---
 
-### 🏙 **Parivartan (Swachh)** — Civic Issue Management Platform  
-Citizen → Admin → Department → Worker workflow for civic issue resolution.  
+### 🏙 **CivicSense** — Civic Issue Reporting & Workforce Coordination  
+A civic-tech platform enabling structured reporting and resolution of public issues.
+
+- Citizen-to-authority issue reporting workflow  
+- Department-level task assignment and tracking  
+- Transparency through status updates and accountability  
+
 **Tech:** Full-stack (TypeScript)  
-👉 [Repository](https://github.com/AadityaHande/parivatran-swachh) | [Live Demo](https://parivatran-swachh.vercel.app/)
+👉 [Repository](https://github.com/AadityaHande/civic-sense)
 
-### 🤖 **Admission Agent** — AI Assistant (RAG)  
-LLM-powered assistant using document retrieval for accurate responses.  
+---
+
+### 🤖 **Admission Agent** — Retrieval-Augmented AI Assistant (RAG)  
+LLM-powered assistant for document-grounded, accurate responses.  
+
+- Vector-based document retrieval  
+- Reduced hallucinations via context injection  
+- Designed for institutional information systems  
+
 **Tech:** Python, Vector DB, IBM Watsonx  
 👉 [Repository](https://github.com/AadityaHande/admission-agent)
 
+---
+
 ### 🧠 **Problem Solving**  
-Clean C++ implementations of core DSA concepts with explanations.  
+Clean C++ implementations of core DSA concepts with clear logic and explanations.  
 👉 [Repository](https://github.com/AadityaHande/problem-solving)
 
 ---
 
 ## 💻 Tech Stack  
 
-**Languages:** Python, JavaScript, TypeScript, C, C++  
-**Frontend:** React, Next.js  
-**Backend:** Node.js, Express  
-**Databases:** MongoDB, Firebase, SQL  
-**AI / Cloud:** IBM Cloud, Watsonx  
+**Languages:** C++, Python, Java, Javascript, TypeScript  
+**Systems:** Next.js, Node.js, Express  
+**Data:** Firebase, MongoDB, SQL  
+**AI / Cloud:** RAG pipelines, IBM Watsonx  
 **Tools:** Git, Linux  
 
 ---
 
 ## 🏅 Achievements & Open Source  
 
-- **Hacktoberfest 2025 Contributor**  
 - **GSSoC’25 Contributor**  
-- Active contributor to open-source and team-based engineering projects  
+- **Hacktoberfest 2025 Contributor**  
+- Active open-source collaborator (PRs, reviews, issues)
 
 ---
 
-## 🏆 Certifications  
-
-- **IBM (Credly):** AI Fundamentals, Cloud Journey, RAG  
-- **Cisco NetAcad:** Python Essentials 1 & 2  
-- **Others:** Great Learning, Udemy  
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub Activity  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AadityaHande&show_icons=true&theme=radical" height="160" />
   <img src="https://streak-stats.demolab.com?user=AadityaHande&theme=radical" height="160" />
-</p>
-
----
-
-## 🏹 Competitive Programming  
-
-<p align="center">
-  <a href="https://www.codechef.com/users/nullcodx">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge" />
-  </a>
-  <a href="https://leetcode.com/aadityahande">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/nullcodx/practice/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge" />
-  </a>
 </p>
 
 ---
@@ -121,7 +120,5 @@ Clean C++ implementations of core DSA concepts with explanations.
     <img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Hande-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
----
 
 **Open to internships, hackathons, and impactful engineering collaborations.**
